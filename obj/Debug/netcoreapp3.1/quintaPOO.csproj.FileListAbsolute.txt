@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\bin\Debug\netcoreapp3.1\quintaPOO.exe
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\bin\Debug\netcoreapp3.1\quintaPOO.deps.json
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\bin\Debug\netcoreapp3.1\quintaPOO.runtimeconfig.json
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\bin\Debug\netcoreapp3.1\quintaPOO.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\bin\Debug\netcoreapp3.1\quintaPOO.dll
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\bin\Debug\netcoreapp3.1\quintaPOO.pdb
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.dll
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.pdb
+C:\Users\Phellipe\Desktop\senai\c#\quintaPOO\obj\Debug\netcoreapp3.1\quintaPOO.genruntimeconfig.cache
